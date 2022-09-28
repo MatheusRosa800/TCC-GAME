@@ -1,8 +1,8 @@
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/teste3)
-# Título
+# Game (Healthy Survivor)
 Descrição
 ## Autores
-- ` Aluno 1 (INW) `
+- ` Matheus Rosa (INW) `
 - Aluno 2
 - Aluno 3 
 - Aluno 4
