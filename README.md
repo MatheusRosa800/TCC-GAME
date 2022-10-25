@@ -9,4 +9,5 @@ Game do TCC sobre alimentação. Jogo de plataforma com objetos caindo. O objeti
 - ` Eduarda Pavan (Pitch) `
 - ` Theo  (Pitch) `
 - ` Lucas Torres (App) `
+
 ![image](https://user-images.githubusercontent.com/61835871/197802384-ca0781a3-6689-4065-bd59-b9583b785986.png)
